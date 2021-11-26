@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	int x, k =10 ;
+	int x, k =234432 ;
 	cout << "Enter x =";
 	cin >> x;
 	float rez;
